@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Xodi" name="Xodi" version="1.0.0" provider-name="NASHILKA14">
+<addon id="repository.Nashilka" name="[COLOR purple]Nashilka[/COLOR]" version="1.0.0" provider-name="NASHILKA14">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Nashilka/Xodi/master/repo/repository.example/addon.xml</info>
@@ -8,8 +8,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>An Xbox Kodi Repo</summary>
-        <description>This includes add-ons for XBMC</description>
+        <summary>Nashilka Repo</summary>
+        <description>The Truly Free Addons Are Found Here</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
